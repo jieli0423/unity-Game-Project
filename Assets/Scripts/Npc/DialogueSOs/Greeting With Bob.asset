@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2347881e202e1a47bbe3a714d29ba9d, type: 3}
+  m_Name: Greeting With Bob
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: d05b8dbc4bc3eae49858ca94d2113b14, type: 2}
+    text: Hello Li Jie
+  - speaker: {fileID: 11400000, guid: d05b8dbc4bc3eae49858ca94d2113b14, type: 2}
+    text: 'I heard you just released a new devlog for Willard,
+
+      talking about
+      Animation'
+  - speaker: {fileID: 11400000, guid: 441c0c80256988e4a8799d33322fe590, type: 2}
+    text: Sure did! You should check it out,Bob!

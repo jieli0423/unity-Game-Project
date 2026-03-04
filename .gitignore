@@ -1,0 +1,52 @@
+# ============== Unity Core ==============
+# 缓存文件夹（绝对不能传）
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+# 构建输出文件夹
+/[Bb]uild/
+/[Bb]uilds/
+# 日志文件
+/[Ll]ogs/
+# 用户设置（个性化配置，不用传）
+/[Uu]ser[Ss]ettings/
+# 包管理锁文件（可选忽略，避免冲突）
+/Packages/packages-lock.json
+# Unity包文件
+*.unitypackage
+# 场景缓存
+*.prefab.meta~
+*.unity.meta~
+
+# ============== IDE/编辑器 ==============
+# Visual Studio
+/[Vv]isual[Ss]tudio/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pdb
+# Rider
+*.sln.iml
+.idea/
+# VS Code
+.vscode/
+*.code-workspace
+
+# ============== 系统文件 ==============
+# Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+# Windows
+ehthumbs.db
+Thumbs.db
+# Linux
+*~
+.bashrc
