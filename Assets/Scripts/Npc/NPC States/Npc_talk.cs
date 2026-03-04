@@ -35,9 +35,13 @@ public class Npc_talk : MonoBehaviour
         if(Input.GetButtonDown("Interact"))
         {
             if (DialogueManager.Instance.isDialogueActive == true)
+            {
                 DialogueManager.Instance.AdvanceDialogue();
+            }
             else
-                DialogueManager.Instance.StartDIalogue(dialogueSO);
+            { 
+                DialogueManager.Instance.StartDialogue(dialogueSO); 
+            }
         }
     }
 }

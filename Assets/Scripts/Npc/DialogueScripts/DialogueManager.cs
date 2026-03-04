@@ -20,17 +20,27 @@ public class DialogueManager : MonoBehaviour
 
     private void Awake()
     {
-        if (Instance = null)
+        if (Instance == null)
+        { 
             Instance = this;
+        }
         else
             Destroy(gameObject);
 
-        canvasGroup.alpha = 0;
-        canvasGroup.interactable = false;
-        canvasGroup.blocksRaycasts = false;
+        // 加canvasGroup空值判断
+        if (canvasGroup != null)
+        {
+            canvasGroup.alpha = 0;
+            canvasGroup.interactable = false;
+            canvasGroup.blocksRaycasts = false;
+        }
+        else
+        {
+            Debug.LogError("DialogueManager的canvasGroup未赋值！", this);
+        }
     }
 
-    public void StartDIalogue(DialogueSO dialogueSO)
+    public void StartDialogue(DialogueSO dialogueSO)
     {
         currentDialogue = dialogueSO;
         dialogueIndex = 0;
