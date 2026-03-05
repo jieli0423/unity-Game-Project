@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\unity\\Tuanjie Hub\\My project (3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\unity\\tuanjie hub\\my project (3)\\assets\\scripts\\npc\\actorso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\npc\\actorso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\unity\\Tuanjie Hub\\My project (3)\\assets\\scripts\\npc\\dialogueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\dialogueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\unity\\Tuanjie Hub\\My project (3)\\assets\\scripts\\debugtexts\\buttonforcetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\debugtexts\\buttonforcetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|d:\\unity\\tuanjie hub\\my project (3)\\assets\\scripts\\questsystem\\questso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questsystem\\questso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\unity\\Tuanjie Hub\\My project (3)\\assets\\scripts\\skilltree\\skilltreemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skilltree\\skilltreemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\unity\\Tuanjie Hub\\My project (3)\\assets\\scripts\\debugtexts\\buttonforcetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\debugtexts\\buttonforcetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SkillTreeManager.cs",
               "DocumentMoniker": "D:\\unity\\Tuanjie Hub\\My project (3)\\Assets\\Scripts\\SkillTree\\SkillTreeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SkillTree\\SkillTreeManager.cs",
@@ -43,27 +39,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DialogueSO.cs",
-              "DocumentMoniker": "D:\\unity\\Tuanjie Hub\\My project (3)\\Assets\\Scripts\\Npc\\DialogueSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Npc\\DialogueSO.cs",
-              "ToolTip": "D:\\unity\\Tuanjie Hub\\My project (3)\\Assets\\Scripts\\Npc\\DialogueSO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Npc\\DialogueSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T06:07:04.223Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ActorSO.cs",
-              "DocumentMoniker": "D:\\unity\\Tuanjie Hub\\My project (3)\\Assets\\Scripts\\Npc\\ActorSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Npc\\ActorSO.cs",
-              "ToolTip": "D:\\unity\\Tuanjie Hub\\My project (3)\\Assets\\Scripts\\Npc\\ActorSO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Npc\\ActorSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Title": "QuestSO.cs",
+              "DocumentMoniker": "D:\\unity\\Tuanjie Hub\\My project (3)\\Assets\\Scripts\\QuestSystem\\QuestSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuestSystem\\QuestSO.cs",
+              "ToolTip": "D:\\unity\\Tuanjie Hub\\My project (3)\\Assets\\Scripts\\QuestSystem\\QuestSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuestSystem\\QuestSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T06:00:38.977Z",
+              "WhenOpened": "2026-03-05T07:12:57.452Z",
               "EditorCaption": ""
             },
             {
@@ -74,7 +58,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\DeBugTexts\\ButtonForceTest.cs",
               "ToolTip": "D:\\unity\\Tuanjie Hub\\My project (3)\\Assets\\Scripts\\DeBugTexts\\ButtonForceTest.cs",
               "RelativeToolTip": "Assets\\Scripts\\DeBugTexts\\ButtonForceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAABSwCEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T09:40:13.554Z"
             }

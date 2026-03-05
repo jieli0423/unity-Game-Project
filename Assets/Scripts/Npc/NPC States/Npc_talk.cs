@@ -30,6 +30,8 @@ public class Npc_talk : MonoBehaviour
         rb.isKinematic = false;
     }
 
+
+
     private void Update()
     {
         if(Input.GetButtonDown("Interact"))
